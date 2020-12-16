@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shara\\OneDrive\\Desktop\\n10015957\\assign_cab301.csproj": {}
+    "C:\\CAB432\\Library-Book-Borrowing-App\\App\\assign_cab301.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shara\\OneDrive\\Desktop\\n10015957\\assign_cab301.csproj": {
+    "C:\\CAB432\\Library-Book-Borrowing-App\\App\\assign_cab301.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shara\\OneDrive\\Desktop\\n10015957\\assign_cab301.csproj",
+        "projectUniqueName": "C:\\CAB432\\Library-Book-Borrowing-App\\App\\assign_cab301.csproj",
         "projectName": "CommunityLibraryMovieBorrwoingSystem",
-        "projectPath": "C:\\Users\\shara\\OneDrive\\Desktop\\n10015957\\assign_cab301.csproj",
+        "projectPath": "C:\\CAB432\\Library-Book-Borrowing-App\\App\\assign_cab301.csproj",
         "packagesPath": "C:\\Users\\shara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shara\\OneDrive\\Desktop\\n10015957\\obj\\",
+        "outputPath": "C:\\CAB432\\Library-Book-Borrowing-App\\App\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\shara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -24,3 +24,16 @@ C:\Users\shara\OneDrive\Desktop\n10015957\bin\Debug\netcoreapp3.1\CommunityLibra
 C:\Users\shara\OneDrive\Desktop\n10015957\bin\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.pdb
 C:\Users\shara\OneDrive\Desktop\n10015957\obj\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.dll
 C:\Users\shara\OneDrive\Desktop\n10015957\obj\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.pdb
+C:\CAB432\Library-Book-Borrowing-App\App\bin\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.exe
+C:\CAB432\Library-Book-Borrowing-App\App\bin\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.deps.json
+C:\CAB432\Library-Book-Borrowing-App\App\bin\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.runtimeconfig.json
+C:\CAB432\Library-Book-Borrowing-App\App\bin\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.runtimeconfig.dev.json
+C:\CAB432\Library-Book-Borrowing-App\App\bin\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.dll
+C:\CAB432\Library-Book-Borrowing-App\App\bin\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.pdb
+C:\CAB432\Library-Book-Borrowing-App\App\obj\Debug\netcoreapp3.1\assign_cab301.csprojAssemblyReference.cache
+C:\CAB432\Library-Book-Borrowing-App\App\obj\Debug\netcoreapp3.1\assign_cab301.AssemblyInfoInputs.cache
+C:\CAB432\Library-Book-Borrowing-App\App\obj\Debug\netcoreapp3.1\assign_cab301.AssemblyInfo.cs
+C:\CAB432\Library-Book-Borrowing-App\App\obj\Debug\netcoreapp3.1\assign_cab301.csproj.CoreCompileInputs.cache
+C:\CAB432\Library-Book-Borrowing-App\App\obj\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.dll
+C:\CAB432\Library-Book-Borrowing-App\App\obj\Debug\netcoreapp3.1\CommunityLibraryMovieBorrwoingSystem.pdb
+C:\CAB432\Library-Book-Borrowing-App\App\obj\Debug\netcoreapp3.1\assign_cab301.genruntimeconfig.cache
